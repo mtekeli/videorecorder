@@ -1,3 +1,6 @@
+CMakeLists.txt.user
+.DS_Store
+
 # C++ objects and libs
 *.slo
 *.lo
